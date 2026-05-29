@@ -1,4 +1,4 @@
-[# 👋 Hi, I'm Bharath Kumar Parunandula
+# 👋 Hi, I'm Bharath Kumar Parunandula
 
 ### AI & Data Engineer | LLM Applications | RAG | Semantic Search | Data Automation
 
