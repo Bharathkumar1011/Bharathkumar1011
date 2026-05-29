@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Bharath Kumar Parunandula
+[# 👋 Hi, I'm Bharath Kumar Parunandula
 
 ### AI & Data Engineer | LLM Applications | RAG | Semantic Search | Data Automation
 
 📍 Hyderabad, India
 📧 bharathkumar1011@gmail.com
 📞 +91 8639078566
-🔗 [LinkedIn](https://www.linkedin.com/in/bharathkumar1011/)
+🔗 [LinkedIn](https://www.linkedin.com/in/bharathkumar-parunandula-23021bb1/?skipRedirect=true)
 💻 [GitHub](https://github.com/Bharathkumar1011)
 📊 [Kaggle](https://www.kaggle.com/bharathkumar1011)
 
@@ -109,7 +109,7 @@ LLaMA 3-70B based resume-JD alignment with synonym matching, penalty scoring, an
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharathkumar1011/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/bharathkumar1011/](https://www.linkedin.com/in/bharathkumar-parunandula-23021bb1/?skipRedirect=true))
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bharathkumar1011)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/bharathkumar1011)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharathkumar1011@gmail.com)
@@ -117,3 +117,4 @@ LLaMA 3-70B based resume-JD alignment with synonym matching, penalty scoring, an
 ---
 
 *Built for AI & Data roles — LLMs, RAG, scraping, semantic search, and automation*
+](https://www.linkedin.com/in/bharathkumar-parunandula-23021bb1/?skipRedirect=true)
